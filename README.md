@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chh51
 - 👀 I’m interested in many things, but for computers its Swift and related
-- 🌱 I’m currently learning all the new stuff from WWDC
+- 🌱 Focus is on Sub-alpine forests and their recovery from wildfire, but building a private Swift app to gather field data
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - Do not reach me
 
